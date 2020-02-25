@@ -30,4 +30,4 @@ confusion
 
 #Model Accuracy
 Accuracy<-sum(diag(confusion)/sum(confusion))
-Accuracy
+Accuracy #70.52
