@@ -1,0 +1,5 @@
+
+Salary_hike -> Build a prediction model for Salary_hike
+
+
+Do the necessary transformations for input variables for getting better R^2 value for the model prepared.

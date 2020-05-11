@@ -1,0 +1,2 @@
+Emp_data -> Build a prediction model for Churn_out_rate
+Do the necessary transformations for input variables for getting better R^2 value for the model prepared.

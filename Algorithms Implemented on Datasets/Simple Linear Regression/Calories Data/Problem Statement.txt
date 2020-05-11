@@ -1,0 +1,2 @@
+Calories_consumed-> predict weight gained using calories consumed
+Do the necessary transformations for input variables for getting better R^2 value for the model prepared.
